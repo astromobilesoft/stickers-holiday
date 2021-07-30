@@ -5,15 +5,7 @@
       {
          "identifier": "easter",
          "name": "Happy Easter",
-         "publisher":"Astro Mobile",
-         "tray_image_file":"tray.png",
-         "publisher_website":"",
-         "publisher_email":"astro.mobile.soft@gmail.com",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
-         "image_data_version":"1",
-         "avoid_cache":false,
-         "animated_sticker_pack":true,
+         "animated_sticker_pack":false,
          "stickers":"22",
       }
    ]
