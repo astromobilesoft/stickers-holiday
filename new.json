@@ -3,6 +3,42 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"valentine1",
+         "name":"Valentine 1",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"sweaters",
+         "name":"Sweaters",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"special",
+         "name":"Special",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"snowman2",
+         "name":"Snow Man 2",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"snowman1",
+         "name":"Snow Man 1",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"newyear1",
+         "name":"New Year 1",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
          "identifier":"4thofjuly1",
          "name":"4th of July 1",
          "animated_sticker_pack":true,
