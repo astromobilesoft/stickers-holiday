@@ -13,6 +13,12 @@
          "name":"Christmas 1",
          "animated_sticker_pack":false,
          "stickers":"18"
+      },
+      {
+         "identifier":"christmas2",
+         "name":"Christmas 2",
+         "animated_sticker_pack":false,
+         "stickers":"17"
       }
    ]
 }
